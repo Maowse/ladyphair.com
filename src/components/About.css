@@ -1,0 +1,13 @@
+.social-links {
+    display: flex;
+    flex-direction: row;
+}
+
+.social-link {
+    font-size: 2em;
+    margin-right: 10px;
+}
+
+.linkedin {
+    color: #2867b2;
+}

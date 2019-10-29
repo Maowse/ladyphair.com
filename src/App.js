@@ -35,7 +35,7 @@ const App = () => (
         <img class="profile-img" src="./avatar2.png" alt="Amber Phair"></img>
         <h2 class="main-name">Amber Phair</h2>
         <menu class="sidebar-menu">
-          <div class="sidebar-menu-link"><Link to="/">About</Link></div>
+          <div class="sidebar-menu-link"><Link to="/">About Me</Link></div>
           <div class="sidebar-menu-link"><Link to="/resume">Resume</Link></div>
           <div class="sidebar-menu-link"><Link to="/quotes">Favorite Quotes</Link></div>
         </menu>
