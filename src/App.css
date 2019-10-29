@@ -1,22 +1,22 @@
-.App {
+.sidebar-menu-link {
+  color: #b98ea7;
+  margin-bottom: 20px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.sidebar-menu-link:hover {
+  color: #a57982;
+}
+
+.profile-img {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.main-name {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+  margin: 10px;
+  color: #f0f2ef;
+  font-family: 'Nunito', sans-serif;
 }
