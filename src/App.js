@@ -17,7 +17,8 @@ const pane1Style = {
 };
 
 const pane2Style = {
-  'padding-left': '5px'
+  'padding-left': '5px',
+  'overflow-y': 'auto'
 };
 
 
